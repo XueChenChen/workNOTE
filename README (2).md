@@ -1,10 +1,10 @@
 
 # 导读
-1. [React-native 基础教程](##React-native 基础教程)
-1. [lottery 相关](##lottery 相关)
-1. [React-native apk打包](##React-native apk打包)
-1. [协议规则:HTTPS](##协议规则:HTTPS)
-1. [IPV6](##IPV6)
+1. [React-native 基础教程](## React-native 基础教程)
+1. [lottery 相关](## lottery 相关)
+1. [React-native apk打包](## React-native apk打包)
+1. [协议规则:HTTPS](## 协议规则:HTTPS)
+1. [IPV6](## IPV6)
 
 [TOC]
 
